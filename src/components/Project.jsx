@@ -1,12 +1,16 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import Header from './Header'
 import portfolio from "../assets/portfolio2.PNG"
 import rentalhouse from "../assets/rentalhouse.PNG"
 import jobsite from "../assets/jobsite.PNG"
 import { motion } from "framer-motion"
 import "./component.css"
+import swal from "sweetalert2"
 
 function Project() {
+    useEffect(()=>{
+        swal.fire("Hii :)","The live demo may take few second to fetch data","info")
+    },[])
     return (
         <>
         <Header />
