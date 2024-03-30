@@ -16,11 +16,9 @@ function Header() {
 
     return (
         <div className='container  mb-4'>
-            {/* <div className='row' > */}
             <div className="">
                     <h2 className='titile' style={{ color: 'white' }}>Sukumar <span style={{ color: 'orange' }}>Sivasubramaniyam</span></h2>
                 </div>
-            {/* <div className="col d-flex justify-content-end me-3 "> */}
             <Navbar expand="lg" className="headerNav " >
                 <Container className='navContainer d-flex justify-content-center'style={{color:'white'}}>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" className='custom-toggle text-center' style={{ color: 'white' }}/>
