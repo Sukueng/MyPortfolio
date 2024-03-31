@@ -53,7 +53,7 @@ function HeadComponent() {
                     <div className="row mt-3 ">
                         <div className="col">
                             <a href='https://github.com/Sukueng/' target="_blank"><i class="bi bi-github p-2 ms-5" style={{ fontSize: '1.5rem' ,marginLeft:'10px',color:'white'}}></i></a>
-                            <a href="https://www.linkedin.com/in/sukumar-s-8846b6233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><i class="bi bi-linkedin p-2 ms-5" style={{ fontSize: '1.5rem',marginLeft:'10px',color:'white' }}></i></a>
+                            <a href="https://www.linkedin.com/in/sukumar-s-8846b6233" target="_blank"><i class="bi bi-linkedin p-2 ms-5" style={{ fontSize: '1.5rem',marginLeft:'10px',color:'white' }}></i></a>
                         </div>
                     </div>
 
