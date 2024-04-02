@@ -72,7 +72,7 @@ function AboutComponent() {
                                         <p style={{color:'white'}}>My Sql ,Mongo DB</p>
                                     </div>
                                     <div className="row">
-                                        <h5 style={{color:'orange'}}>Devobs</h5>
+                                        <h5 style={{color:'orange'}}>DevOps</h5>
                                     </div>
                                     <div className="row">
                                         <p style={{color:'white'}}>AWS ,Docker ,Git</p>
