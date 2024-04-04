@@ -2,7 +2,7 @@ import React from 'react'
 import { motion } from "framer-motion"
 import { useTypewriter, Cursor } from 'react-simple-typewriter'
 import zoro from "../assets/zoro.png"
-import resume from "../assets/sukumar sivasubramaniyam.pdf"
+import resume from "../assets/SukumarResume.pdf"
 import zoro2 from "../assets/zoropng.png"
 import pic1 from "../assets/pic1.png"
 import profile from "../assets/pp1.png"
